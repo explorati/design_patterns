@@ -1,6 +1,4 @@
-package com.explorati.creational.principle.openclose;
-
-import com.explorati.creational.principle.openclose.ICourse;
+package com.explorati.principle.openclose;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package com.explorati.creational.principle.openclose;
+package com.explorati.principle.openclose;
 
 import java.math.BigDecimal;
 
