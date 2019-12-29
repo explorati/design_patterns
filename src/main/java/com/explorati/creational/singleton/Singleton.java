@@ -1,11 +1,13 @@
 package com.explorati.creational.singleton;
 
+import java.io.Serializable;
+
 /**
  * @ Author : Weijian_Wang
  * @ Date : Created in 21:34 2019/12/20 0020
  * @ Description ：单例模式
  */
-public class Singleton {
+public class Singleton implements Serializable {
 
     private static Singleton instance = null;
     private Singleton() {
